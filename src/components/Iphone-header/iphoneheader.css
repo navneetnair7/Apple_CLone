@@ -1,0 +1,32 @@
+.iphone_title {
+    font-size: 55px;
+    font-weight: 500;
+    font-style: normal;
+    padding: 2.5rem 0 0 0;
+}
+
+.iphone_slogan {
+    font-size: 27px;
+}
+
+.iphone_fiveg {
+    display: inline;
+    border-color: white;
+    border-radius: 1rem;
+    text-align: center;
+    border: solid 1px grey;
+    padding: 2px 10px;
+    width: max-content;
+    color: grey;
+}
+
+.iphone_links {
+    width: 20%;
+    margin: 0 auto;
+    color: #2078CA;
+    font-size: 1.3rem;
+}
+
+.iphone_links a {
+    padding: 2rem;
+}

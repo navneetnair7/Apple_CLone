@@ -1,0 +1,15 @@
+.cards {
+    display: grid;
+    height: 175vh;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;    
+}
+
+.cards_img_l {
+    padding-left: 10px;
+    padding-bottom: 0px;
+}
+
+.cards_img_r {
+    padding-right: 10px;
+}
